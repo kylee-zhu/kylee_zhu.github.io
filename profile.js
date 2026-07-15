@@ -11,7 +11,7 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Kylee Zhu",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
@@ -25,7 +25,7 @@ const studentProfile = {
 
   If you do not want to use a photo, leave this as an empty string.
   */
-  photo: "",
+  photo: "profile.jpg",
 
   contact: "Contact information available upon request.",
 
@@ -39,11 +39,15 @@ const studentProfile = {
   rpubs: [
     {
       title: "Introduction to R",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/Kylee/1446580"
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/Kylee/1446579"
+    }
+    {
+      title: "Exploring TCGA Breast Cancer Clinical Data",
+      url: "https://rpubs.com/Kylee/1447321"
     }
   ],
 
