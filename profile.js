@@ -48,7 +48,7 @@ const studentProfile = {
     {
       title: "Exploring TCGA Breast Cancer Clinical Data",
       url: "https://rpubs.com/Kylee/1447321"
-    }
+    },
   ],
 
   /*
