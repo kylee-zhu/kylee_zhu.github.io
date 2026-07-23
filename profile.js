@@ -49,6 +49,10 @@ const studentProfile = {
       title: "Exploring TCGA Breast Cancer Clinical Data",
       url: "https://rpubs.com/Kylee/1447321"
     },
+    {
+      title: "Heatmaps with TCGA Breast Cancer Gene Expression Data",
+      url: "https://rpubs.com/Kylee/1448567"
+    },
   ],
 
   /*
